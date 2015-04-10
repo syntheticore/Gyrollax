@@ -1,0 +1,19 @@
+{
+  "name": "gyrollax",
+  "version": "0.1.0",
+  "description": "Add depth to your pages using device sensors and the parallax effect",
+  "main": "gyrollax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "parallax",
+    "depth",
+    "gyro",
+    "accellerometer",
+    "sensor",
+    "iOS7"
+  ],
+  "author": "Björn Breitgoff <syntheticore@gmail.com>",
+  "license": "MIT"
+}
