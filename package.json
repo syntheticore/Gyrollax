@@ -1,6 +1,6 @@
 {
   "name": "gyrollax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add depth to your pages using device sensors and the parallax effect",
   "main": "gyrollax.js",
   "scripts": {
